@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Lfilmes" parent="Theme.AppCompat.DayNight" />
+</resources>
